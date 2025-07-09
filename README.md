@@ -53,29 +53,4 @@ Incluye módulos para la gestión de usuarios, programación de clases, registro
 
 ---
 
-## 📷 Capturas de Pantalla
-
-### 🔑 Pantalla de Login
-![Login](ruta/a/captura_login.png)
-
-### 🏠 Dashboard del Mentor
-![Dashboard Mentor](ruta/a/captura_dashboard_mentor.png)
-
-### 📚 Vista de Clases Asignadas
-![Clases Asignadas](ruta/a/captura_clases_asignadas.png)
-
-### 📝 Calificación de Estudiantes
-![Calificaciones](ruta/a/captura_calificaciones.png)
-
-### 📈 Vista de Reportes de Clases
-![Reportes](ruta/a/captura_reportes.png)
-
-### 👨‍🎓 Vista del Estudiante – Clases Asignadas
-![Clases Estudiante](ruta/a/captura_estudiante_clases.png)
-
-### 📆 Programación de Mentorías
-![Programación](ruta/a/captura_programacion.png)
-
----
-
 Desarrollado con ❤️ por estudiantes de Ingeniería de Sistemas – UPT
