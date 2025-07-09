@@ -92,14 +92,6 @@ Incluye módulos para la gestión de usuarios, programación de clases, registro
 
 ---
 
-## 👥 Autores
-
-- 👨‍💻 Gregory Brandon Huanca Merma – Full Stack Developer  
-- 👨‍💻 Joan Cristian Medina Quispe – Backend Developer  
-- 🎨 Rodrigo Samael Adonai Lira Álvarez – UI/UX Specialist  
-
----
-
 ## 📜 Licencia
 
 Proyecto académico desarrollado como parte del curso  
