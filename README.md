@@ -32,20 +32,6 @@ Incluye módulos para la gestión de usuarios, programación de clases, registro
 
 ---
 
-## ⚙️ Instalación y Ejecución Local
-- Clona el repositorio:
-   ```bash
-   git clone https://github.com/usuario/proyecto-ams.git
-    ```
-- Importa la base de datos desde el archivo `ams_db.sql` a tu servidor MySQL.
-- Configura el archivo `config/Conexion.php` con tus credenciales locales.
-- Asegúrate de tener habilitadas las extensiones `mysqli` y `openssl` en tu `php.ini`.
-- Copia el proyecto en htdocs y abre en navegador:
-
-   http://localhost/web_asm/public/index.php
-
----
-
 ## 🚀 Funcionalidades Principales
 
 ### 🔐 Login y Roles
@@ -89,25 +75,6 @@ Incluye módulos para la gestión de usuarios, programación de clases, registro
 
 ### 📆 Programación de Mentorías
 ![Programación](ruta/a/captura_programacion.png)
-
----
-
-## 📜 Licencia
-
-Proyecto académico desarrollado como parte del curso  
-**Calidad y Pruebas de Software – Universidad Privada de Tacna.**  
-**Uso exclusivo con fines educativos.**
-
----
-
-## 🛣️ Roadmap del Proyecto
-
-- ✅ Registro y autenticación de usuarios
-- ✅ Gestión de clases y asignación de mentorías
-- ✅ Evaluación y seguimiento académico
-- 🔄 Implementación de análisis predictivo *(en desarrollo)*
-- 🔄 Versión móvil multiplataforma *(planeado)*
-- 🔄 Integración con sistemas académicos UPT *(planeado)*
 
 ---
 
