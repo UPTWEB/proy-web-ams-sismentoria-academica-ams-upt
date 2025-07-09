@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php"
+         colors="true"
+         stopOnFailure="false">
+
+    <testsuites>
+        <testsuite name="WEB_ASM Test Suite">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+
+    <coverage>
+        <include>
+            <directory suffix=".php">./controllers</directory>
+            <directory suffix=".php">./auth</directory>
+            <directory suffix=".php">./usuario</directory> <!-- si tienes esta carpeta -->
+        </include>
+        <report>
+            <html outputDirectory="coverage" />
+        </report>
+    </coverage>
+</phpunit>
